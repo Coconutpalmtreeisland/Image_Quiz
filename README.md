@@ -1,6 +1,8 @@
 # 이미지 퀴즈
 "문제에 맞는 사진을 찾자!"라는 제목의 이미지 퀴즈 게임입니다. 사용자는 제공되는 문제를 해결하기 위해 여러 선택지 중에서 올바른 이미지를 선택해야 합니다. 각 문제마다 제한 시간이 있으며, 시간 내에 답을 선택하지 못하면 문제가 자동으로 넘어갑니다. 모든 문제를 풀고 나면 사용자가 맞힌 문제의 수를 보여주는 결과 페이지가 나타납니다.
 
+<img src="https://raw.githubusercontent.com/Coconutpalmtreeisland/Image_Quiz/main/assets/img/img_quiz.png">
+
 ## 코드 설명
 HTML, CSS, JavaScript를 기반으로 사용자의 상호작용에 따라 동적으로 변화하는 웹 페이지입니다.  
  
